@@ -38,7 +38,7 @@ for idx, row in df.iterrows():
 
         if choice == "1":
             similarity_score = cosine_similarity.compute_cosine_similarity(target_sentence, sentence)
-            
+
         elif choice == "2":
             similarity_score = jaccard_similarity.jaccard_similarity(target_sentence, sentence)
 
