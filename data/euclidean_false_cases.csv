@@ -1,0 +1,60 @@
+score,sentence1,sentence2,score_binary,similarity
+2.4,A woman is playing the guitar.,A man is playing guitar.,0.0,1.0
+2.75,A woman is playing the flute.,A man is playing a flute.,0.0,1.0
+2.615,A woman is cutting an onion.,A man is cutting onions.,0.0,1.0
+2.333,A woman is carrying a boy.,A woman is carrying her baby.,0.0,1.0
+2.4,The girl sang into a microphone.,The lady sang into the microphone.,0.0,1.0
+2.6,The lady cracked an egg into a bowl.,The man is cracking eggs into a bowl.,0.0,1.0
+2.8,A plane is landing.,A animated airplane is landing.,0.0,1.0
+2.812,A plane rides on a road.,An airplane moves along a runway.,0.0,1.0
+2.8,The man talked to a girl over the internet camera.,A teenager talks to a girl over a webcam.,0.0,1.0
+2.75,Five kittens are eating out of five dishes.,Kittens are eating food on trays.,0.0,1.0
+2.8,A woman is slicing some tuna.,A woman is cutting raw fish.,0.0,1.0
+2.75,A man is pressing microwave buttons.,A man turns on the microwave.,0.0,1.0
+2.6,Batman and Robin fly a helicopter over water.,A helicopter flies over water.,0.0,1.0
+2.6,The cook is kneading the flour.,A woman is kneading tortilla dough.,0.0,1.0
+2.75,Men are jumping into water from a bridge.,Men jump in a river.,0.0,1.0
+2.5,A woman is slicing a potato.,A woman is slicing carrot.,0.0,1.0
+2.375,A man is cutting up a potato.,A man is cutting up carrots.,0.0,1.0
+2.75,A lion cub tries to climb a fence.,A lion tries to climb over a wall.,0.0,1.0
+1.8,A woman is chopping an onion.,A woman is chopping garlic with a knife.,0.0,1.0
+2.5,A monkey is karate kicking a person.,A monkey pratices martial arts.,0.0,1.0
+2.8,The lady made some slices on the shrimp.,A chef is slicing a shrimp.,0.0,1.0
+2.0,A woman is slicing fruit.,Two women are slicing some lemons.,0.0,1.0
+1.333,A tiger is playing with his trainer.,A tiger attacks a man.,0.0,1.0
+2.2,The girl is slicing an onion.,A woman is chopping an onion into small pieces.,0.0,1.0
+2.25,A small red and gray bird perched amongst the bare branches of a tree.,A red and brown bird is perched on branches.,0.0,1.0
+2.0,The udders of a dairy cow that is standing in a pasture near a large building.,The black and brown cow is standing on the green grass.,0.0,1.0
+2.4,Two airplanes in the sky.,A plane in the sky.,0.0,1.0
+2.2,A bicycle in front of some ruins.,A pink bicycle is in front of a building.,0.0,1.0
+0.8,Two white dogs are swimming in the water.,The birds are swimming in the water.,0.0,1.0
+1.4,Black domestic cat lying on brown table.,A grey cat laying on a dining table.,0.0,1.0
+1.6,Young baby girl sitting on table.,A woman with a smiling baby sitting on the table.,0.0,1.0
+2.8,A red bird and four other birds sitting in the snow.,Five birds stand on the snow.,0.0,1.0
+2.6,A laptop computer and a computer monitor.,A laptop and a PC at a workstation.,0.0,1.0
+2.4,A white cat laying on an office chair.,A white cat laying on a sheet.,0.0,1.0
+2.2,Left side of a silver train engine.,A close-up of a black train engine.,0.0,1.0
+2.2,Blue couch and twin bed in a living room.,A leather couch and wooden table in a living room.,0.0,1.0
+2.2,A woman is laying down on the floor and holding a baby up above her.,A man is laying on the floor holding a baby up above him.,0.0,1.0
+2.6,A group of people standing in the street,A woman addressing a diverse group of people standing in the street.,0.0,1.0
+2.4,Two dogs fighting in the snow.,Two dogs standing in the snow.,0.0,1.0
+1.8,A black dog is running after a white dog in the snow.,Black dog chasing brown dog through snow,0.0,1.0
+2.6,Black and white dog running through water.,A black and white dog is running through grass.,0.0,1.0
+2.6,A skateboarder on a city street.,"A skateboarder in the air at a big, outdoor ramp.",0.0,1.0
+1.8,Two girls walking in the ocean.,two girls walking in the street,0.0,1.0
+2.4,A black dog running through the snow.,A black dog runs through the water.,0.0,1.0
+2.4,Two dogs in the snow,Two dogs play in the grass.,0.0,1.0
+2.4,"Many people are on the beach, near a building with flags flying.",A busy beach has people scattered on it watching the sky.,0.0,1.0
+2.0,A hockey player looks intently downward.,A hockey player during a game.,0.0,1.0
+2.8,Two dogs are running on the grass in front of the trees.,A brown dog is running on the grass in front of some trees.,0.0,1.0
+4.0,A woman puts cosmetics on her eyelid.,The woman is pencilling on eye shadow.,1.0,0.0
+3.4,A woman and man are riding in a car.,A woman driving a car is talking to the man seated beside her.,1.0,0.0
+3.0,The man is hiking in the woods.,A man is tracking in the wood.,1.0,0.0
+3.0,A baby eats his food.,A baby is being fed peas.,1.0,0.0
+3.2,A man is playing a guitar and singing on a stage.,A man is playing the electric guitar.,1.0,0.0
+3.0,A person is chopping an herb.,A man is finely chopping a green substance.,1.0,0.0
+3.2,An AeroMexico jet taxing along a runway.,A silver AreoMexico Jet Liner sitting on the tarmac.,1.0,0.0
+3.2,German Shephard jumping through black hoop while people watch,A dog jumps through a hoop.,1.0,0.0
+3.2,a skateboard performs a trick off a quarter pipe.,A skateboarder attempts to do a trick over a homemade ramp.,1.0,0.0
+3.0,Two dogs are playing on the beach together.,Two black dogs are playing in a grass.,1.0,0.0
+3.6,A black person in black and red is sleeping on a bench with an open black umbrella.,A man sitting up taking a nap on a park bench with an open umbrella protecting him from the sun.,1.0,0.0
